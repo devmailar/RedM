@@ -1,5 +1,5 @@
 # RedM
-Spoiler: there is no official documentation or cookbook for RedM. I only found out about https://rdr3natives.com/
+Spoiler: there is no official documentation or cookbook for RedM. I only found out about [rdr3natives.com](https://rdr3natives.com/)
 
 # Native Functions
 
